@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sitin02
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and Python
+- 👀 I just graduated as a Data Analytics 
 - 💞️ I’m looking to collaborate on Data Analytics SQL and Python Projects
 - 📫 just reach me via github
 
