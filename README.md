@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sitin02
+- 👋 Hi, I’m Siti Nurjanah
 - 👀 I just graduated as a Data Analytics 
 - 💞️ I’m looking to collaborate on Data Analytics SQL and Python Projects
 - 📫 just reach me via github
